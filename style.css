@@ -1,0 +1,19 @@
+img{
+    border-radius: 8px;
+    padding: 6px;
+    width: 30%;
+    
+    }
+    
+    body{
+        background-color:#c75d5d;
+        fieldset: 10px;
+        padding: 10px;
+    }
+    
+    h2{color:blue;}
+    label{font-family: 'Times New Roman', Times, serif;}
+    
+    h1{color: rgb(0, 66, 128);}
+    
+    
